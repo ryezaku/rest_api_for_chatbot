@@ -2,7 +2,7 @@ version: '3'
 services:
   core_api:
     build: .
-    container_name: "chatbot-fastapi-2"
+    container_name: "chatbot-fastapi-4"
     ports: 
     - "8000:8000"
     volumes:
